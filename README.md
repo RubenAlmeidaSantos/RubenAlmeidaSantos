@@ -1,13 +1,13 @@
 ![Grey Minimalist Designer Linkedin Banner (3)](https://github.com/RubenAlmeidaSantos/RubenAlmeidaSantos/assets/159732799/b4575c9b-a294-4c3c-8e56-22a18f8aaafd)
 
 
-- 🛠️ Backend programming: Java, Python, Spring Boot;
+                                    - 🛠️ Backend programming: Java, Python, Spring Boot;
 
-- 🛠️ Frontend Programming: JavaScript, HTML5, CSS3, JQuery
+                                    - 🛠️ Frontend Programming: JavaScript, HTML5, CSS3, JQuery
 
-- 👀 I like Game development, backend and frontend programming;
+                                    - 👀 I like Game development, backend and frontend programming;
 
-- 💞️ Love working on impactful projects.
+                                    - 💞️ Love working on impactful projects.
 
 <!---
 RubenAlmeidaSantos/RubenAlmeidaSantos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
