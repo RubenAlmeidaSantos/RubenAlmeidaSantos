@@ -19,9 +19,11 @@ Let's craft clean interfaces and elegant code together, maybe even swap recipes!
 
                                     - 💞️ Love working on awesome and impactful projects.
 
+![_65fa3f29-1a85-463e-9ee3-b28b25d7dc49](https://github.com/RubenAlmeidaSantos/RubenAlmeidaSantos/assets/159732799/a4974a03-0c22-4a6c-9764-f44dd742b1b8)
 
 
-![_77ece40e-6a09-40e3-945b-b986d6018644](https://github.com/RubenAlmeidaSantos/RubenAlmeidaSantos/assets/159732799/54dffb46-5082-4e4b-bcfd-5e39106440f7)
+
+
 
 <!---
 RubenAlmeidaSantos/RubenAlmeidaSantos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
