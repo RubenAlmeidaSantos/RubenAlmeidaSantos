@@ -5,7 +5,7 @@
 
 <h4 align="center">Former Culinary Ninja turned Code Warrior! 💻🍳<p> </p>
 
-Hey, I'm Rúben, a Junior Full-Stack Developer with a passion for coding hotter than my stir-fry!
+I'm a Junior Full-Stack Developer with a passion for coding hotter than my stir-fry!
 
 I traded my spatula for a keyboard because coding and cooking share creativity, precision, and magic!
 
