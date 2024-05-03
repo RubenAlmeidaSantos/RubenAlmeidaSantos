@@ -32,7 +32,7 @@ Let's craft clean interfaces and elegant code together, maybe even swap recipes!
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Paz3B40CnVi1XotvYllmsSTZ1bJ1IhCl/view?usp=sharing](https://drive.google.com/file/d/1Paz3B40CnVi1XotvYllmsSTZ1bJ1IhCl/view?usp=sharing)
 
-- ⚡ Fun fact **I used to be a cook and I am a martial artist the real fruit ninja!**
+- ⚡ Fun fact **I used to be a cook and I am a martial artist, the real fruit ninja!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
